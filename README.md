@@ -1,20 +1,11 @@
 ### Hi there 👋
 
-<!--
-**SandipLow/SandipLow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sandip Low, a 20 y/o guy who loves game developement, programming and learning something new every day.
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning 3D character controlling on screen
-- 📫 How to reach me: sandipbkt2002@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have < 1 year of programming experience.
--->
-I'm Sandip Low, a 19 y/o guy who loves game developement, programming and learning something new every day.
-
-- 🌱 I’m currently learning 3D character controlling on touchscreen.
-- 📫 How to reach me: sandipbkt2002@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have < 2 year of programming experience.
+- 👋 Hi, I’m @SandipLow
+- 👀 I’m interested in Game and Web Development
+- 🌱 I’m currently mastering my Web Development skills
+- 💞️ I’m looking to make the world Better
+- 📫 How to reach me sandipbkt2002@gmail.com
 
 More about me.. https://sandiplow.github.io
