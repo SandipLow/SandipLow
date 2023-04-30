@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://in.linkedin.com/in/sandip-low)](https://in.linkedin.com/in/sandip-low)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-050a30?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandiplow.official@gmail.com)](mailto:akshat28vivek@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-050a30?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandiplow.official@gmail.com)](mailto:sandiplow.official@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-5ce1e6?style=flat-square&logo=facebook&logoColor=050a30&link=https://www.facebook.com/asad.ion.5)](https://www.facebook.com/asad.ion.5)
 [![Website Badge](https://img.shields.io/badge/-Website-050a30?style=flat-square&logo=vercel&logoColor=white&link=https://sandiplow.github.io)](https://sandiplow.github.io)
 
