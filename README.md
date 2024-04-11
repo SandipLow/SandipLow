@@ -16,45 +16,45 @@ More about me.. https://sandiplow.github.io
 ## PROGRAMMING LANGUAGES
 
 <p align="left"> 
-  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/assets/programming/js.png" height=40  >
-  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/assets/programming/c.png" height=40  >
-  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/assets/programming/c++.png" height=40  >
-  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/assets/programming/cs.png" height=40  >
-  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/assets/programming/python.png" height=40  >
-  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/assets/programming/java.png" height=40  >
-  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/assets/programming/kotlin.png" height=40 >
-  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/assets/programming/dart.png" height=40 >
+  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/public/programming/js.png" height=40  >
+  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/public/programming/c.png" height=40  >
+  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/public/programming/c++.png" height=40  >
+  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/public/programming/cs.png" height=40  >
+  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/public/programming/python.png" height=40  >
+  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/public/programming/java.png" height=40  >
+  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/public/programming/kotlin.png" height=40 >
+  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/public/programming/dart.png" height=40 >
 </p>
 <br>
 
 ## WEB DEVELOPMENT TOOLS
 
 <p align="left"> 
-  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/assets/programming/html-css-js.png" height=40  >
-  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/assets/programming/react.png" height=40  >
-  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/assets/programming/nextjs.png" height=40  >
-  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/assets/programming/redux.png" height=40  >
-  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/assets/programming/svelte.png" height=40  >
-  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/assets/programming/vite.svg" height=40  >
-  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/assets/programming/three.png" height=40  >
-  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/assets/programming/bootstrap.png" height=40  >
-  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/assets/programming/tailwind-css.png" height=40  >
-  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/assets/programming/flask.png" height=40  >
-  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/assets/programming/php.png" height=40  >
-  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/assets/programming/nodejs.png" height=40  >
-  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/assets/programming/firebase.png" height=40  >
-  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/assets/programming/mysql.png" height=40  >
-  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/assets/programming/mongodb.png" height=40  >
+  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/public/programming/html-css-js.png" height=40  >
+  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/public/programming/react.png" height=40  >
+  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/public/programming/nextjs.png" height=40  >
+  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/public/programming/redux.png" height=40  >
+  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/public/programming/svelte.png" height=40  >
+  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/public/programming/vite.svg" height=40  >
+  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/public/programming/three.png" height=40  >
+  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/public/programming/bootstrap.png" height=40  >
+  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/public/programming/tailwind-css.png" height=40  >
+  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/public/programming/flask.png" height=40  >
+  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/public/programming/php.png" height=40  >
+  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/public/programming/nodejs.png" height=40  >
+  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/public/programming/firebase.png" height=40  >
+  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/public/programming/mysql.png" height=40  >
+  <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/public/programming/mongodb.png" height=40  >
 </p>
 <br>
 
 ## APP DEVELOPMENT
 
 <p align="left">
-    <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/assets/programming/androidstudio.png" height=40  >
-    <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/assets/programming/flutter.png" height=40  >
-    <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/assets/programming/react.png" height=40  >
-    <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/assets/programming/kivy.png" height=40  >
+    <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/public/programming/androidstudio.png" height=40  >
+    <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/public/programming/flutter.png" height=40  >
+    <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/public/programming/react.png" height=40  >
+    <img src="https://github.com/SandipLow/sandiplow.github.io/raw/three/public/programming/kivy.png" height=40  >
 <p>
 <br>
 
